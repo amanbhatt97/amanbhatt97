@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif)
+[![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX41566849.jpg)
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
