@@ -10,6 +10,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [IEX Price Forecasting](https://iex-app.streamlit.app/)
+
+- 🌱 I’m currently learning **Computer Vision, AWS**
+
+- 👨‍💻 All of my projects are available at [https://amanbhatt97.github.io/portfolio/](https://amanbhatt97.github.io/portfolio/)
+
+- 📝 I regularly write articles on [https://medium.com/@amanbhatt.1997.ab](https://medium.com/@amanbhatt.1997.ab)
+
+- 💬 Ask me about **Machine Learning, Deep Learning, Visualization Tools**
+
 - 📫 How to reach me **amanbhatt.1997.ab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanbhatt97&show_icons=true&locale=en" alt="amanbhatt97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanbhatt97&" alt="amanbhatt97" /></p>
+
