@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Visualization Tools, anything related to Data Science**
 
-- 📫 How to reach me **amanbhatt.1997.ab@gmail.com**
+- 📫 You can reach me at: **amanbhatt.1997.ab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
