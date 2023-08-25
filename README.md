@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif)](https://amanbhatt97.io)
+[![MasterHead](https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif)](https://amanbhatt97.io)
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
