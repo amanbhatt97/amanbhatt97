@@ -1,4 +1,4 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif)
+[![MasterHead](https://www.google.com/search?q=artificial+intelligence+gif&tbm=isch&ved=2ahUKEwil15PYv_eAAxVwz6ACHV_oBpoQ2-cCegQIABAA&oq=artificial+intelligence+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECdQ9wZYgQtg-QxoAHAAeACAAd4BiAG7BJIBBTEuMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=dXToZOXIGvCeg8UP39Cb0Ak&bih=1330&biw=2560#imgrc=pfvcGE3COqMPgM&imgdii=nNJJ5j1ahk5vIM)]
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
