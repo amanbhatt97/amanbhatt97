@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-0098d6e8ed2f42ee553326c0d4b3418b)]
+[![MasterHead](https://gifdb.com/images/high/ai-humanoid-automation-zb3dt1s0n11ucfwb.gif)]
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
