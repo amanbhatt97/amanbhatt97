@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)](https://amanbhatt97.io)
+[![MasterHead](        https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)](https://amanbhatt97.io)
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
