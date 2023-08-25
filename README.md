@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amanbhatt.1997.ab](https://medium.com/@amanbhatt.1997.ab)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Visualization Tools**
+- 💬 Ask me about **Machine Learning, Deep Learning, Visualization Tools, anything related to Data Science**
 
 - 📫 How to reach me **amanbhatt.1997.ab@gmail.com**
 
