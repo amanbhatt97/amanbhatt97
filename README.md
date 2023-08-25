@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/ai-humanoid-automation-zb3dt1s0n11ucfwb.gif)]
+[![MasterHead](https://gifdb.com/images/high/ai-humanoid-automation-zb3dt1s0n11ucfwb.gif)](https://amanbhatt97.io)
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A Civil Engineer turned Machine Learning Engineer from India</h3>
